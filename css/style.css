@@ -2,3 +2,11 @@
   font-style: italic;
   color: purple;
 }
+.important{
+  color: red;
+  font-size: 124%;
+}
+.weird{
+  font-size: 50%;
+  font-style: italic;
+}
